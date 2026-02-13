@@ -6,9 +6,10 @@ public class PasswordsCopy {
         System.out.println("Generating passwords"); 
         Random randGen = new Random(); // our random class 
         // Step 1
-        int n = 12; // password length
+        int n = 20; // password length
         // make passwords more difficult to crack 
-
+        // Now this password will be very difficult 
+        
         String password = ""; // our password String 
 
         for (int i = 0; i < n; i++) // iterate n times // Step 2
