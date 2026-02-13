@@ -3,6 +3,7 @@ public class Passwords {
     
     public static void main(String args[])
     {
+        System.out.println("Generating passwords"); 
         Random randGen = new Random(); // our random class 
         // Step 1
         int n = 8; // password length
