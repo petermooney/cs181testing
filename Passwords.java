@@ -6,7 +6,8 @@ public class Passwords {
         System.out.println("Generating passwords"); 
         Random randGen = new Random(); // our random class 
         // Step 1
-        int n = 8; // password length
+        int n = 12; // password length
+        // make passwords more difficult to crack 
 
         String password = ""; // our password String 
 
