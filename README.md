@@ -1,2 +1,2 @@
 # cs181testing
-a test repo for CS181
+This is a test repository for CS181 2026/2027
